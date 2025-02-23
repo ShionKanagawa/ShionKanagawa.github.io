@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
+    <title>ShionのBlog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Blowfish</description>
+    <description>Recent content on ShionのBlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 22 Feb 2025 23:20:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sun, 23 Feb 2025 08:55:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>教程：在任意第三方 ROM 上为 Xperia 设备启用 VoLTE</title>
+      <link>http://localhost:1313/posts/%E6%95%99%E7%A8%8B%E5%9C%A8%E4%BB%BB%E6%84%8F%E7%AC%AC%E4%B8%89%E6%96%B9-rom-%E4%B8%8A%E4%B8%BA-xperia-%E8%AE%BE%E5%A4%87%E5%90%AF%E7%94%A8-volte/</link>
+      <pubDate>Sun, 23 Feb 2025 08:55:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/%E6%95%99%E7%A8%8B%E5%9C%A8%E4%BB%BB%E6%84%8F%E7%AC%AC%E4%B8%89%E6%96%B9-rom-%E4%B8%8A%E4%B8%BA-xperia-%E8%AE%BE%E5%A4%87%E5%90%AF%E7%94%A8-volte/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
