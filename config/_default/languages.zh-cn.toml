@@ -17,7 +17,7 @@ title = "ShionのBlog"
 [params.author]
    name = "ShionKanagawa"
 #   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   image = "avater.png"
 #   imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
